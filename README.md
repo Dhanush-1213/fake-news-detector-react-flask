@@ -1,4 +1,4 @@
-# 🧠 Fake News Detection Web Application
+# Fake News Detection Web Application
 
 An **AI-powered Fake News Detection Web App** that analyzes news articles and predicts whether they are **Fake or Real** using **Natural Language Processing (NLP)** and **Machine Learning**.
 
@@ -6,17 +6,17 @@ This project combines **Machine Learning, Flask API, and React.js** to build a f
 
 ---
 
-# 🚀 Features
+# Features
 
-* 📰 Detect whether a news article is **Fake or Real**
-* 📊 Displays **prediction confidence score**
-* ⚡ Real-time prediction using **Flask API**
-* 🎨 Modern **React UI with premium design**
-* 🤖 Machine Learning model trained on real-world dataset
+*  Detect whether a news article is **Fake or Real**
+*  Displays **prediction confidence score**
+*  Real-time prediction using **Flask API**
+*  Modern **React UI with premium design**
+*  Machine Learning model trained on real-world dataset
 
 ---
 
-# 🧰 Tech Stack
+#  Tech Stack
 
 ### Machine Learning
 
@@ -40,7 +40,7 @@ This project combines **Machine Learning, Flask API, and React.js** to build a f
 
 ---
 
-# 📊 Model Performance
+#  Model Performance
 
 The model was trained using the **Fake and Real News Dataset from Kaggle**.
 
@@ -54,7 +54,7 @@ Accuracy: 0.9846325167037862
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 fake-news-detector
@@ -82,9 +82,9 @@ fake-news-detector
 
 ---
 
-# ⚙️ Installation & Setup
+#  Installation & Setup
 
-## 1️⃣ Clone the Repository
+##  Clone the Repository
 
 ```
 git clone https://github.com/Dhanush-1213/fake-news-detector-react-flask.git
@@ -93,7 +93,7 @@ cd fake-news-detector-react-flask
 
 ---
 
-# 🖥 Backend Setup
+#  Backend Setup
 
 ```
 cd backend
@@ -109,7 +109,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 🌐 Frontend Setup
+#  Frontend Setup
 
 ```
 cd frontend
@@ -125,7 +125,7 @@ http://localhost:3000
 
 ---
 
-# 🔎 How It Works
+#  How It Works
 
 ```
 User enters news article
@@ -143,7 +143,7 @@ Prediction (Fake / Real) + Confidence Score
 
 ---
 
-# 📌 Example
+#  Example
 
 ### Input
 
@@ -160,7 +160,7 @@ Confidence: 92%
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 * Explainable AI using **LIME / SHAP**
 * News URL analyzer
@@ -170,7 +170,7 @@ Confidence: 92%
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Dhanush K**
 
